@@ -20,6 +20,34 @@ Here are some ideas to get you started:
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 1. </div> 
+        ---
+## 📌 __신한투자증권 클라우드 기반 웹 서비스__ 📌
+- [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
+- [Link Stock](https://github.com/shinhanInternProject)
+
+## 📌 __자바 디자인 패턴__ 📌
+- [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
+
+## 📌 __Block Cipher Project__ 📌
+- [PIPO 블록암호 경진대회](https://github.com/harin1212/pipo_sswu)
+
+## 📌 __Block Chain Project__ 📌
+-  [안드로이드 블록체인 지갑](https://github.com/harin1212/android-wallet)
+
+---
+
+####  __Spring Boot Project__
+- [영화 조회 서비스](https://github.com/harin1212/PDA-spring.git)
+
+####  __React Native Project__
+- [증권앱](https://github.com/Shinhan-H-H/shinhan-mobile-project.git)
+
+####  __mini Study__
+- [수치적 데이터처리](https://github.com/harin1212/numerical-data-processing.git)
+- [신한투자증권 국내/해외 주식 클론](https://github.com/harin1212/shinhan-react.git)
+- [Autoxplore](https://github.com/harin1212/autoxplore.git)
+- [클라우드 기반 채팅](https://github.com/harin1212/aws-chat-demo.git)
+  
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
