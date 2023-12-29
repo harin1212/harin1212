@@ -11,9 +11,6 @@
 #### 📌 __자바 디자인 패턴__ 
 - [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
 
-#### 📌 __Block Cipher Project__ 
-- [PIPO 블록암호 경진대회](https://github.com/harin1212/pipo_sswu)
-
 #### 📌 __Block Chain Project__ 
 -  [안드로이드 블록체인 지갑](https://github.com/harin1212/android-wallet)
 
