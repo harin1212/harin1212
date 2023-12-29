@@ -1,17 +1,3 @@
-<!--
-**harin1212/harin1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe747,100:fed7d7&height=180&text=harin1212%20🙌&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
@@ -45,6 +31,19 @@ Here are some ideas to get you started:
 - [클라우드 기반 채팅](https://github.com/harin1212/aws-chat-demo.git)
   
     </div>
+    <br>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Award </h2>  
+        
+
+#### 🥇 __PIPO 블록암호 경진대회 우수상__ 
+- [효율적인 클라우드 빅데이터 암호화를 위한 PIPO-CTR mode python 구현](https://github.com/harin1212/pipo_sswu)
+  
+#### 🥇 __제 6회 금융보안원 논문 공모전 우수상__ 
+- [프라이버시 보호형 마이데이터 자기주도 증명 시스템](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
+  
+    </div>
+    <br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
