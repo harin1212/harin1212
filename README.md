@@ -66,7 +66,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=@giima_rin> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=@giima_rin"> </a>
+    <div align= "center"> 
          <a href=https://harin1212.notion.site/harin1212/04c8622f865245e8b09f6b33f63ffb57> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://harin1212.notion.site/harin1212/04c8622f865245e8b09f6b33f63ffb57"> </a>
          <a href=mailto:harinkim1212@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harinkim1212@gmail.com"> </a>
           </div>  <br> 
