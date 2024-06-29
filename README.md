@@ -9,7 +9,7 @@
 - [Link Stock](https://github.com/shinhanInternProject)
 
 #### 📌 __창업 동아리 부동맞춤__ 
-- [외국인 비대면 부동산 전자계약 서비스](https://github.com/real-estate-contract/real-estate-api.git)
+- [외국인 비대면 부동산 전자계약 서비스](https://github.com/harin1212/real-estate-api.git)
 
 #### 📌 __자바 디자인 패턴__ 
 - [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
