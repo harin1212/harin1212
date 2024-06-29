@@ -8,18 +8,20 @@
 - [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
 - [Link Stock](https://github.com/shinhanInternProject)
 
+#### 📌 __창업 동아리 부동맞춤__ 
+- [외국인 비대면 부동산 전자계약 서비스](https://github.com/real-estate-contract/real-estate-api.git)
+
 #### 📌 __자바 디자인 패턴__ 
 - [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
 
 #### 📌 __Block Chain Project__ 
 -  [안드로이드 블록체인 지갑](https://github.com/harin1212/android-wallet)
 
-
-######  __Spring Boot Project__
-- [비대면 부동산 전자계약 서비스](https://github.com/real-estate-contract/real-estate-api.git)
+######  __Spring Boot__
 - [영화 조회 서비스](https://github.com/harin1212/PDA-spring.git)
+- [스프링 스터디](https://github.com/harin1212/spring-mvc.git)
 
-######  __React Native Project__
+######  __React Native__
 - [증권앱](https://github.com/Shinhan-H-H/shinhan-mobile-project.git)
 
 #####  __mini Study__
@@ -27,7 +29,6 @@
 - [신한투자증권 국내/해외 주식 클론](https://github.com/harin1212/shinhan-react.git)
 - [반응형 웹 페이지](https://github.com/harin1212/autoxplore.git)
 - [클라우드 기반 채팅](https://github.com/harin1212/aws-chat-demo.git)
-- [스프링 스터디](https://github.com/harin1212/spring-mvc.git)
   
     </div>
     <br>
