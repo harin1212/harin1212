@@ -41,6 +41,9 @@
   
 #### 🥇 __제 6회 금융보안원 논문 공모전 우수상__ 
 - [프라이버시 보호형 마이데이터 자기주도 증명 시스템](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
+
+#### 🥉 __한국스마트정보교육원 주관 SW 개발 공모전__ 
+- [부동맞춤](https://github.com/harin1212/real-estate-api.git)
   
     </div>
     <br>
