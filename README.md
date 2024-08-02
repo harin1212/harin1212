@@ -8,7 +8,7 @@
 - [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
 - [Link Stock](https://github.com/shinhanInternProject)
 
-#### 📌 __창업 동아리 부동맞춤__ 
+#### 📌 __창업 동아리__ 
 - [외국인 비대면 부동산 전자계약 서비스](https://github.com/harin1212/real-estate-api.git)
 
 #### 📌 __자바 디자인 패턴__ 
@@ -43,7 +43,7 @@
 - [프라이버시 보호형 마이데이터 자기주도 증명 시스템](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
 
 #### 🥉 __한국스마트정보교육원 주관 SW 개발 공모전__ 
-- [부동맞춤](https://github.com/real-estate-contract)
+- [부동맞춤🏡 : 외국인 비대면 부동산 거래 서비스](https://github.com/real-estate-contract)
   
     </div>
     <br>
