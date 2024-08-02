@@ -26,9 +26,8 @@
 
 #####  __mini Study__
 - [수치적 데이터처리](https://github.com/harin1212/numerical-data-processing.git)
-- [신한투자증권 국내/해외 주식 클론](https://github.com/harin1212/shinhan-react.git)
+- [국내/해외 주식 클론 클론코딩](https://github.com/harin1212/shinhan-react.git)
 - [반응형 웹 페이지](https://github.com/harin1212/autoxplore.git)
-- [클라우드 기반 채팅](https://github.com/harin1212/aws-chat-demo.git)
   
     </div>
     <br>
@@ -42,7 +41,7 @@
 #### 🥇 __제 6회 금융보안원 논문 공모전 우수상__ 
 - [프라이버시 보호형 마이데이터 자기주도 증명 시스템](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
 
-#### 🥉 __한국스마트정보교육원 주관 SW 개발 공모전__ 
+#### 🥉 __한국스마트정보교육원 주관 SW 개발 공모전 장려상__ 
 - [부동맞춤🏡 : 외국인 비대면 부동산 거래 서비스](https://github.com/real-estate-contract)
   
     </div>
