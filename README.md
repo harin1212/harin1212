@@ -3,48 +3,38 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Project </h2>  
-        
-#### 📌 __신한투자증권 클라우드 기반 웹 서비스__ 
-- [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
-- [Link Stock](https://github.com/shinhanInternProject)
 
-#### 📌 __창업 동아리__ 
+##### __창업 동아리__
 - [외국인 비대면 부동산 전자계약 서비스](https://github.com/harin1212/real-estate-api.git)
 
-#### 📌 __자바 디자인 패턴__ 
-- [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
-
-#### 📌 __Block Chain Project__ 
+##### __신한투자증권 클라우드 기반 웹 서비스__
+- [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
+- [Link Stock](https://github.com/shinhanInternProject)
+##### __Block Chain Project__ 
 -  [안드로이드 블록체인 지갑](https://github.com/harin1212/android-wallet)
-
-######  __Spring Boot__
-- [영화 조회 서비스](https://github.com/harin1212/PDA-spring.git)
-- [스프링 스터디](https://github.com/harin1212/spring-mvc.git)
-
-######  __React Native__
-- [증권앱](https://github.com/Shinhan-H-H/shinhan-mobile-project.git)
 
 #####  __mini Study__
 - [수치적 데이터처리](https://github.com/harin1212/numerical-data-processing.git)
 - [국내/해외 주식 클론 클론코딩](https://github.com/harin1212/shinhan-react.git)
 - [반응형 웹 페이지](https://github.com/harin1212/autoxplore.git)
+- [증권앱](https://github.com/Shinhan-H-H/shinhan-mobile-project.git)
+- [영화 조회 서비스](https://github.com/harin1212/PDA-spring.git)
+- [스프링 스터디](https://github.com/harin1212/spring-mvc.git)
+- [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
   
     </div>
     <br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Award </h2>  
         
-
-#### 🥇 __PIPO 블록암호 경진대회 우수상__ 
-- [효율적인 클라우드 빅데이터 암호화를 위한 PIPO-CTR mode python 구현](https://github.com/harin1212/pipo_sswu)
-  
-#### 🥇 __제 6회 금융보안원 논문 공모전 우수상__ 
-- [프라이버시 보호형 마이데이터 자기주도 증명 시스템](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
-
-#### 🥉 __한국스마트정보교육원 주관 SW 개발 공모전 장려상__ 
-- [부동맞춤🏡 : 외국인 비대면 부동산 거래 서비스](https://github.com/real-estate-contract)
-  
-    </div>
+🥇 [PIPO 블록암호 경진대회 우수상](https://github.com/harin1212/pipo_sswu)
+<br>
+<br>
+🥇 [제 6회 금융보안원 논문 공모전 우수상](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
+<br>
+<br>
+🥉 [한국스마트정보교육원 주관 SW 개발 공모전 장려상](https://github.com/real-estate-contract)
+<br>
     <br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -53,17 +43,17 @@
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;"> 
