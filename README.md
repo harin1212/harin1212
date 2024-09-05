@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe747,100:fed7d7&height=180&text=harin1212%20🙌&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe747,100:fed7d7&height=180&text=harin1212%20🙌&animation=fadeIn&fontColor=ffffff&fontSize=40" /> -->
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Project </h2>  
@@ -30,7 +30,7 @@
 🥇 [PIPO 블록암호 경진대회 우수상](https://github.com/harin1212/pipo_sswu)
 <br>
 <br>
-🥇 [제 6회 금융보안원 논문 공모전 우수상](https://www.newsis.com/view/?id=NISX20221117_0002089892&cID=10201&pID=10200)
+🥇 [제 6회 금융보안원 논문 공모전 우수상]()
 <br>
 <br>
 🥉 [한국스마트정보교육원 주관 SW 개발 공모전 장려상](https://github.com/real-estate-contract)
@@ -56,8 +56,11 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           </div>
     </div>
+    <!--
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=harin1212&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-         /> </div> 
+          />  
+         </div> 
+         -->
     </div>
     
