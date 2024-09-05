@@ -1,8 +1,12 @@
 <div align= "center">
 <!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe747,100:fed7d7&height=180&text=harin1212%20🙌&animation=fadeIn&fontColor=ffffff&fontSize=40" /> -->
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Project </h2>  
+    
+## 👋 Welcome harin1212's github
+클라우드 기반 서버 개발을 공부하며 성장하는 개발자 김하린입니다 🗂️
+
+<div style="text-align: left;"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Project </h2>  
 
 ##### __창업 동아리__
 - [외국인 비대면 부동산 전자계약 서비스](https://github.com/harin1212/real-estate-api.git)
