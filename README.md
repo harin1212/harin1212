@@ -14,6 +14,8 @@
 ##### __신한투자증권 클라우드 기반 웹 서비스__
 - [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
 - [Link Stock](https://github.com/shinhanInternProject)
+- [증권앱](https://github.com/harin1212/mobile-app-project)
+- [트레이딩 시스템](https://github.com/harin1212/trading-shinhan-indi)
 ##### __Block Chain Project__ 
 -  [안드로이드 블록체인 지갑](https://github.com/harin1212/android-wallet)
 
@@ -21,7 +23,6 @@
 - [수치적 데이터처리](https://github.com/harin1212/numerical-data-processing.git)
 - [국내/해외 주식 클론 클론코딩](https://github.com/harin1212/shinhan-react.git)
 - [반응형 웹 페이지](https://github.com/harin1212/autoxplore.git)
-- [증권앱](https://github.com/Shinhan-H-H/shinhan-mobile-project.git)
 - [영화 조회 서비스](https://github.com/harin1212/PDA-spring.git)
 - [스프링 스터디](https://github.com/harin1212/spring-mvc.git)
 - [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
