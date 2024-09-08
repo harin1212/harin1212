@@ -28,9 +28,8 @@
 - [Java Design Pattern](https://github.com/harin1212/PDA-JavaPattern/tree/Kim-Harin/Kim-Harin)
   
     </div>
-    <br>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Award </h2>  
+<div style="text-align: left;"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Award </h2>  
         
 🥇 [PIPO 블록암호 경진대회 우수상](https://github.com/harin1212/pipo_sswu)
 <br>
