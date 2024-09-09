@@ -34,7 +34,7 @@
 🥇 [PIPO 블록암호 경진대회 우수상](https://github.com/harin1212/pipo_sswu)
 <br>
 <br>
-🥇 [제 6회 금융보안원 논문 공모전 우수상]()
+🥇 [제 6회 금융보안원 논문 공모전 우수상](https://www.fsec.or.kr/bbs/detail?menuNo=243&bbsNo=11185) 
 <br>
 <br>
 🥉 [한국스마트정보교육원 주관 SW 개발 공모전 장려상](https://github.com/real-estate-contract)
