@@ -39,6 +39,12 @@
 <br>
 🥉 [한국스마트정보교육원 주관 SW 개발 공모전 장려상](https://github.com/real-estate-contract)
 <br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📜 Certificates </h2>  
+- SQLD
+<br>
+- AWS Certified Solutions Architect - Associate
+<br>
+- 증권투자권유대행인
     <br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
