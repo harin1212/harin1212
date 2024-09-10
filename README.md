@@ -44,6 +44,8 @@
 <br>
 - AWS Certified Solutions Architect - Associate
 <br>
+- 정보처리기사
+<br>
 - 증권투자권유대행인
     <br>
     <div style="text-align: left;">
