@@ -10,7 +10,8 @@
 
 ##### __창업 동아리__
 - [외국인 비대면 부동산 전자계약 서비스](https://github.com/harin1212/real-estate-api.git)
-
+##### __NIPA-NAVER 플랫폼 Tech__
+- [영수증 셰프](https://github.com/harin1212/receipt-chef-server)
 ##### __신한투자증권 클라우드 기반 웹 서비스__
 - [두근두근! 주식 프렌즈](https://github.com/shinhan-final-project)
 - [Link Stock](https://github.com/shinhanInternProject)
@@ -35,6 +36,12 @@
 <br>
 <br>
 🥇 [제 6회 금융보안원 논문 공모전 우수상](https://www.fsec.or.kr/bbs/detail?menuNo=243&bbsNo=11185) 
+<br>
+<br>
+🥇 [신한투자증권 프로디지털 아카데미 2기 프로젝트 우수상](https://github.com/harin1212/stock-friend) 
+<br>
+<br>
+🥇 [NIPA-NAVER 플랫폼 Tech 프로젝트 우수상](https://github.com/harin1212/receipt-chef-server) 
 <br>
 <br>
 🥉 [한국스마트정보교육원 주관 SW 개발 공모전 장려상](https://github.com/real-estate-contract)
