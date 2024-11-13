@@ -41,7 +41,7 @@
 🥇 [신한투자증권 프로디지털 아카데미 2기 프로젝트 우수상](https://github.com/harin1212/stock-friend) 
 <br>
 <br>
-🥇 [NIPA-NAVER 플랫폼 Tech 프로젝트 우수상](https://github.com/harin1212/receipt-chef-server) 
+🥇 [NIPA-NAVER 플랫폼 Tech 프로젝트 최우수상](https://github.com/harin1212/receipt-chef-server) 
 <br>
 <br>
 🥉 [한국스마트정보교육원 주관 SW 개발 공모전 장려상](https://github.com/real-estate-contract)
